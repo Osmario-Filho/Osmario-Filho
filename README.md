@@ -1,5 +1,10 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Osmario-Filho&layout=compact&hide=html)](https://github.com/anuraghazra/github-readme-stats)
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,typescript,javascript,nodejs,react,nestjs,postgres,docker&perline=4" />
+  </a>
+</p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Osmario-Filho&layout=compact&count_private=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 Meu gráfico de contribuições (Pac-Man)
 
